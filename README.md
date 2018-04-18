@@ -1,2 +1,7 @@
-# assignment5
-URCSC174 - Assignment 5
+# Assignment 5
+
+## Information Architect
+
+## Design Artist
+
+## Technical Coder
